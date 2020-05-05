@@ -1,2 +1,2 @@
 # ioTAnalytics
-Deep Analytics, Visualitsation and Modelling
+Deep Analytics, Visualitzation and Modelling
